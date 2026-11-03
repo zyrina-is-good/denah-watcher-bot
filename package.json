@@ -1,0 +1,9 @@
+{
+  "name": "denah-watcher-bot",
+  "version": "1.0.0",
+  "description": "Telegram Bot Pemantau Denah Kelas VIII-C",
+  "main": "bot.py",
+  "scripts": {
+    "start": "python3 bot.py"
+  }
+}
